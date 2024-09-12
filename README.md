@@ -109,6 +109,8 @@ Example: Developing a new mobile app where user preferences might change during 
 <br/>
   - Clear structure and documentation.
   - Easy to manage due to its rigidity.
+  <br/>
+<br/>
 Waterfall: Disadvantages
 <br/>
 <br/>
