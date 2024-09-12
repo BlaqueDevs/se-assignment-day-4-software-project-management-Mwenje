@@ -274,5 +274,14 @@ The main features that make our software stand out are:<br/>
    <br/>
 7. Robust Security: Ensures data protection and privacy with advanced security measures.<br/>
    <br/>
-## 12. What data is available regarding the market size and growth potential for your software?
+## 12. What data is available regarding the market size and growth potential for your software?<br/>
+   <br/>
+1. Market Size: Revenue in the Digital Health market is projected to reach US$225.60m in 2024.<br/>
+   <br/>
+2. Growth Rate: Revenue is expected to show an annual growth rate (CAGR 2024-2029) of 4.76%, resulting in a projected market volume of US$284.70m by 2029.<br/>
+   <br/>
+3. Market Trends: An increasing prevalence of chronic conditions, aging population, telehealth uptake, and rising demand for reduction in care costs.<br/>
+   <br/>
+4. Competitive Landscape:The market features major players like Zuri Health, SASAdoctor with a growing number of startups entering the space.<br/>
+   <br/>
 ## 13. How can understanding market trends inform your software’s positioning and development?
