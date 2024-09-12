@@ -6,37 +6,47 @@
 1. Meeting Client Expectations
    <br/>
    This helps in meeting client expectations as they want their projects to be completed on time and if this is not done, it can lead to dissatisfaction and loss of business.
+    <br/>
    <br/>
 2. Mitigating Risks
    <br/>
    When projects are delivered on time, it reduces the chances of cost overruns, schedule delays, and other risks associated with project management
+    <br/>
    <br/>
 3. Cost Savings
    <br/>
    When projects are completed on schedule, it reduces the need for additional resources, overtime, and other expenses associated with project delays.
+    <br/>
    <br/>
 5. Improved Communication
    <br/>
    When projects are delivered on time, it allows for better communication between project teams and stakeholders, which can help in identifying and addressing any issues that may arise    during the project.
+    <br/>
    <br/>
 6. Competitive Advantage
    <br/>
    Businesses that consistently deliver projects on time are more likely to win new clients and retain existing ones. This is because timely deliveries demonstrate a commitment to       
    quality and reliability, which are important factors for clients when choosing a service provider.
+    <br/>
    <br/>
 
    <br/>
 **Project managers ensure deadlines are met by:-**
 <br/>
-1. **Embrace Iterative Development:** Agile Methodology promotes an iterative and incremental approach to development, allowing teams to respond quickly to changing requirements and         deliver functional software at the end of each iteration.   <br/>
+1. **Embrace Iterative Development:** Agile Methodology promotes an iterative and incremental approach to development, allowing teams to respond quickly to changing requirements and         deliver functional software at the end of each iteration.    <br/>
+   <br/>
 2. **Continuous Tracking:** With Continuous Integration ensures that code changes are integrated regularly, reducing the likelihood of integration issues and Continuous Deployment automates the process of deploying code changes into production, enabling faster and more reliable releases.
+    <br/>
    <br/>
 3. **Foster Communication and Collaboration:** Effective communication and collaboration among team members are critical components of successful software delivery.
    <br/>
    <br/>
 4. **Identify and Mitigate Risks Early:** Identify potential risks at the beginning of the project and continuously monitor and mitigate them throughout the development lifecycle.
+    <br/>
    <br/>
 5. **Set Achievable Milestones:** Accurate time estimation is vital for effective project management. Development teams should work closely with stakeholders to set realistic milestones and deadlines.
+    <br/>
+   <br/>
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
