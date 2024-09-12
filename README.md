@@ -181,7 +181,25 @@ Defining the project scope sets clear boundaries for what the project will deliv
    <br/>
    <br/>
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+   <br/>
+   <br/>
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+1. Better Tracking of Progress: Enables monitoring of tasks to keep the project on track.   <br/>
+   <br/>
+2. Improved Efficiency and Productivity: Clear task outlines boost team performance.   <br/>
+   <br/>
+3. Reduced Risk of Delays and Cost Overruns: Early identification of bottlenecks helps avoid disruptions.   <br/>
+   <br/>
+4. Enhanced Resource Management: Ensures optimal use of resources, preventing inefficiencies.   <br/>
+   <br/>
+5. Better Communication: Provides a clear project roadmap, improving coordination among stakeholders.   <br/>
+   <br/>
+6. Risk Management: Helps identify risks and plan contingencies.   <br/>
+   <br/>
+7. Stakeholder Satisfaction: Keeps stakeholders informed and engaged, leading to higher support.   <br/>
+   <br/>
+8. Stress Reduction: Clear timelines reduce uncertainty, lowering team stress.   <br/>
+   <br/>
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
