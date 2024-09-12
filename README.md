@@ -182,8 +182,6 @@ Defining the project scope sets clear boundaries for what the project will deliv
    <br/>
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
    <br/>
-   <br/>
-## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 1. Better Tracking of Progress: Enables monitoring of tasks to keep the project on track.   <br/>
    <br/>
 2. Improved Efficiency and Productivity: Clear task outlines boost team performance.   <br/>
@@ -200,6 +198,22 @@ Defining the project scope sets clear boundaries for what the project will deliv
    <br/>
 8. Stress Reduction: Clear timelines reduce uncertainty, lowering team stress.   <br/>
    <br/>
+
+Gantt charts assist in project scheduling by<br/>
+   <br/>
+1. Visual Clarity: visually displaying tasks,they provide a clear visual representation of the project timeline, making it easy to see the start and end dates of tasks.<br/>
+   <br/>
+2. Task Dependencies: Gantt charts show how tasks are related and dependent on each other, helping to identify potential bottlenecks.<br/>
+   <br/>
+3. Progress Tracking: They allow you to track the progress of tasks and milestones, ensuring the project stays on schedule.<br/>
+   <br/>
+4. Resource Management: By visualizing the workload, Gantt charts help in allocating resources effectively.<br/>
+   <br/>
+5. Improved Communication: They enhance communication among team members and stakeholders by providing a shared view of the project plan.
+   <br/>
+   <br/>
+## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?   <br/>
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
