@@ -166,7 +166,11 @@ Waterfall fits structured, predictable ones.
  <br/>
    <br/>
 7. Quality Control
-8.  <br/>
+
+    <br/>
+   <br/>
+High standards ensures that the project deliverables meet the required standards and satisfy customer expectations which in return retains clients.
+   <br/>
    <br/>
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
