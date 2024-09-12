@@ -28,11 +28,17 @@
    <br/>
 **Project managers ensure deadlines are met by:-**
 <br/>
-1. **Embrace Iterative Development:** Agile Methodology promotes an iterative and incremental approach to development, allowing teams to respond quickly to changing requirements and         deliver functional software at the end of each iteration.
+1. **Embrace Iterative Development:** Agile Methodology promotes an iterative and incremental approach to development, allowing teams to respond quickly to changing requirements and         deliver functional software at the end of each iteration.   <br/>
 2. **Continuous Tracking:** With Continuous Integration ensures that code changes are integrated regularly, reducing the likelihood of integration issues and Continuous Deployment       
+   <br/>
    automates the process of deploying code changes into production, enabling faster and more reliable releases.
+   <br/>
 3. **Foster Communication and Collaboration:** Effective communication and collaboration among team members are critical components of successful software delivery.
-4. **Identify and Mitigate Risks Early:** identify potential risks at the beginning of the project and continuously monitor and mitigate them throughout the development lifecycle
+   <br/>
+   <br/>
+4. **Identify and Mitigate Risks Early:** identify potential risks at the beginning of the project and continuously monitor and mitigate them throughout the development lifecycle.
+   <br/>
+   
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
