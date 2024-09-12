@@ -147,10 +147,18 @@ Waterfall fits structured, predictable ones.
 
   <br/>
 <br/>
-Requirements Analysis
-Test Planning:
-Automated Testing:
-Continuous Integration/Continuous Deployment (CI/CD):
+1. Requirements Analysis
+    <br/>
+   <br/>
+2. Test Planning
+    <br/>
+   <br/>
+3. Automated Testing
+    <br/>
+   <br/>
+4. Continuous Integration/Continuous Deployment (CI/CD)
+    <br/>
+   <br/>
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
