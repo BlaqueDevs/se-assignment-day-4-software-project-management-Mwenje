@@ -91,27 +91,22 @@ Example: Developing a new mobile app where user preferences might change during 
   Agile: Advantages
 
 - Quick response to changes.
-
 - Regular customer feedback.
-
 - Improved team collaboration.
 <br/>
 <br/>
   Agile: Disadvantages
 - Less predictability.
-  
 - Requires significant customer involvement.
   <br/>
   <br/>
 
   Waterfall: Advantages
   - Clear structure and documentation.
-
-- Easy to manage due to its rigidity.
+  - Easy to manage due to its rigidity.
 Waterfall: Disadvantages
   - Difficult to accommodate changes.
-
-- Testing occurs late in the process.
+  - Testing occurs late in the process.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
