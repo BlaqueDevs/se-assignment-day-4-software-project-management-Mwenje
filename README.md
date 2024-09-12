@@ -65,15 +65,25 @@ By implementing robust cost control measures, project managers can make informed
 4. Identifying potential risks and addressing them in a timely manner <br/>
    <br/>
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+ <br/>
+   <br/>
 #1. Waterfall is a linear, sequential approach where each phase (requirements, design, implementation, testing, deployment) is completed before moving on to the next. It’s rigid, with little room for changes once a phase is finished. When to Use Waterfall:
-
+ <br/>
+   <br/>
 Projects with well-defined, stable requirements.
 Projects with strict deadlines and fixed budgets.
+ <br/>
+   <br/>
 Example: Developing software for a regulatory-compliant system where requirements are unlikely to change.
+ <br/>
+   <br/>
 #2. Agile, on the other hand, is iterative and flexible, with development occurring in short cycles (sprints) that allow for frequent adjustments based on user feedback. When to Use Waterfall:
-
+ <br/>
+   <br/>
 Projects where requirements may evolve or are not fully understood at the outset.
 Projects needing frequent user feedback and continuous improvement.
+ <br/>
+   <br/>
 Example: Developing a new mobile app where user preferences might change during development.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
