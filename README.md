@@ -166,13 +166,20 @@ Waterfall fits structured, predictable ones.
  <br/>
    <br/>
 7. Quality Control
-
     <br/>
    <br/>
 High standards ensures that the project deliverables meet the required standards and satisfy customer expectations which in return retains clients.
    <br/>
    <br/>
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+   <br/>
+   <br/>
+Defining the project scope sets clear boundaries for what the project will deliver, helping to manage expectations, allocate resources efficiently, and prevent scope creep. It ensures all stakeholders have a shared understanding of project goals, timelines, and deliverables, which is crucial for successful project planning and execution.
+   <br/>
+   <br/>
+**A Work Breakdown Structure (WBS)** is a hierarchical decomposition of a project into smaller, manageable components or tasks. It organizes the work into distinct levels, making it easier to assign responsibilities, estimate costs, schedule tasks, and track progress. WBS is useful because it provides clarity, ensures nothing is overlooked, and facilitates better planning, communication, and control of the project.
+   <br/>
+   <br/>
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
