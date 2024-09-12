@@ -5,27 +5,26 @@
 <br/>
 1. Meeting Client Expectations
    <br/>
-   This helps in meeting client expectations as they want their projects to be completed on time, and if this is not done, it can lead to dissatisfaction and loss of business.
+   This helps in meeting client expectations as they want their projects to be completed on time and if this is not done, it can lead to dissatisfaction and loss of business.
    <br/>
-2. Cost Control
+2. Mitigating Risks
    <br/>
-   Manages budget and prevents cost overruns.
+   When projects are delivered on time, it reduces the chances of cost overruns, schedule delays, and other risks associated with project management
    <br/>
-3. Quality Assurance
+3. Cost Savings
    <br/>
-   Ensures the final product meets the required standards.
+   When projects are completed on schedule, it reduces the need for additional resources, overtime, and other expenses associated with project delays.
    <br/>
-5. Resource Management
+5. Improved Communication
    <br/>
-   Efficient use of resources.
+   When projects are delivered on time, it allows for better communication between project teams and stakeholders, which can help in identifying and addressing any issues that may arise    during the project.
    <br/>
-6. Risk Management
+6. Competitive Advantage
    <br/>
-   Identifies and mitigates risks.
+   Businesses that consistently deliver projects on time are more likely to win new clients and retain existing ones. This is because timely deliveries demonstrate a commitment to       
+   quality and reliability, which are important factors for clients when choosing a service provider.
    <br/>
-7. Stakeholder Satisfaction
-   <br/>
-   Ensures that the needs and expectations of stakeholders are met.
+
    <br/>
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
