@@ -213,6 +213,38 @@ Gantt charts assist in project scheduling by<br/>
    <br/>
    <br/>
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?   <br/>
+   <br/>
+
+1. Limited Access to Healthcare: Provides remote consultations, making healthcare accessible to patients in rural or underserved areas. <br/>
+   <br/>
+2. Long Wait Times: Reduces wait times by allowing patients to schedule virtual appointments, improving efficiency. <br/>
+   <br/>
+3. High Healthcare Costs: Lowers costs for both providers and patients by reducing the need for in-person visits. <br/>
+   <br/>
+4. Chronic Disease Management: Enhances continuous monitoring and management of chronic conditions through remote patient monitoring. <br/>
+   <br/>
+5. Patient Convenience: Offers flexible scheduling and eliminates travel, improving patient convenience and adherence. <br/>
+   <br/>
+6. Resource Allocation: Optimizes healthcare resources by triaging non-urgent cases virtually. <br/>
+   <br/>
+These problems are significant to the target audience—patients, healthcare providers:= <br/>
+   <br/>
+1. Limited Access to Healthcare: For patients in remote or underserved areas, lack of access to medical care can lead to delayed diagnosis and treatment, worsening health outcomes.<br/>
+   <br/>
+
+2. Long Wait Times: Patients often face frustration and decreased satisfaction due to long wait times, while providers struggle with overloaded schedules, impacting the quality of care.<br/>
+   <br/>
+
+3. High Healthcare Costs: Both patients and providers are burdened by high costs; telemedicine can reduce unnecessary hospital visits and associated expenses.
+
+4. Chronic Disease Management: Patients with chronic conditions need continuous monitoring and management, which is challenging without regular, accessible healthcare, leading to complications.<br/>
+   <br/>
+
+5. Patient Convenience: Busy schedules, mobility issues, and geographical barriers make accessing traditional healthcare difficult, impacting adherence and overall health.<br/>
+   <br/>
+
+6. Resource Allocation: Overburdened healthcare systems struggle to manage patient loads efficiently, leading to burnout among providers and reduced quality of care.<br/>
+   <br/>
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
