@@ -162,6 +162,12 @@ Waterfall fits structured, predictable ones.
 5. Code Reviews
    <br/>
    <br/>
+6. Quality Assurance (QA)
+ <br/>
+   <br/>
+7. Quality Control
+8.  <br/>
+   <br/>
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
