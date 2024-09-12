@@ -85,6 +85,8 @@ Projects needing frequent user feedback and continuous improvement.
  <br/>
    <br/>
 Example: Developing a new mobile app where user preferences might change during development.
+ <br/>
+   <br/>
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
